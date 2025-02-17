@@ -1,0 +1,39 @@
+.booking-requests {
+  padding: 20px;
+}
+
+.booking-list {
+  margin-top: 20px;
+}
+
+.booking-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #f9f9f9;
+}
+
+.booking-item h5 {
+  margin: 0;
+}
+
+.booking-item p {
+  margin: 5px 0;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+}
+
+.actions button {
+  width: 80px;
+}
+
+.modal-body {
+  text-align: center;
+}
