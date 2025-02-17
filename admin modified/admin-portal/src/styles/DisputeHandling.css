@@ -1,0 +1,21 @@
+.table {
+    border: 1px solid #dee2e6;
+}
+
+th {
+    background-color: #28a745;
+    color: white;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+button {
+    transition: 0.3s ease-in-out;
+}
+
+button:hover {
+    opacity: 0.8;
+}
